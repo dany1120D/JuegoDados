@@ -1,5 +1,0 @@
-player1score+=current1
-player2score+=current2
-
-
-
